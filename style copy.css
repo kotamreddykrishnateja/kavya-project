@@ -1,0 +1,107 @@
+
+
+
+
+
+body{
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+#mainheading{
+ width: 90%; 
+ height: 90%;  
+ 
+ 
+ 
+}
+#heading{
+    width: 89%;
+    border: 10px double greenyellow;
+    text-align: center;
+    color:black;
+    background-color: lightcoral;
+    margin-left: 4%;
+    background-image: url(./images/tdp\ logo\ ntr.jpg);
+    background-size: contain;
+}
+#mandel{
+    width: 70%;
+    border: 8px dotted blue;
+    text-align: center;
+    display: inline-block;
+}
+#kavyaimg{
+width: 60%;
+height: 250px;
+border: 5px solid chartreuse;
+}
+#if{
+width:60% ;   
+height: 250px; 
+border: 8px solid crimson;
+}
+#logo{
+position: fixed;
+left: 4%;
+top: 20px;
+width:75px;
+height: 75px;
+}
+#logo1{
+    position: fixed;
+    left: 75%;
+    top: 20px;
+    width:75px;
+height: 75px;
+}
+#scrolling{
+    
+ overflow: auto;  
+ width: 100%; 
+ height: 150px;
+ border: 7px solid green;
+ text-align: center;
+ color: blue;
+}
+
+#vehicals{
+    position: sticky;
+    overflow: auto;
+    width: 100%; 
+ height: 150px;
+ border: 6px solid red;
+  text-align: center; 
+  color: blue; 
+
+}
+#background{
+    border: 5px solid orangered;
+    color: red;
+    background-image: url(./images/tdp\ logo\ 2.jpg);
+    background-size: contain;
+}
+#marquee{
+    height: 200px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+#map{
+width: 30px;
+height: 37px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
